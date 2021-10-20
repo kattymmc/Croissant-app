@@ -1,0 +1,12 @@
+body{
+    background: antiquewhite;
+    text-align: center;
+}
+
+img{
+    margin: 10px auto;
+}
+
+.links a{
+    margin: 0 10px;
+}
